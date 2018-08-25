@@ -1,0 +1,8 @@
+/home/bo/Documents/darknet4hb/data/dog.jpg
+/home/bo/Documents/darknet4hb/data/eagle.jpg
+/home/bo/Documents/darknet4hb/data/giraffe.jpg
+/home/bo/Documents/darknet4hb/data/hb.jpg
+/home/bo/Documents/darknet4hb/data/horses.jpg
+/home/bo/Documents/darknet4hb/data/kite.jpg
+/home/bo/Documents/darknet4hb/data/person.jpg
+/home/bo/Documents/darknet4hb/data/scream.jpg
